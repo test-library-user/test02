@@ -30,6 +30,8 @@ print bill.level
 print bill.attributes['attack']
 
 
+
+
 	
 level_up(bill)
 level_up(bill)
